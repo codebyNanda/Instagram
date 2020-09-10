@@ -1,6 +1,6 @@
 ### Recriando a página inicial do Instagram :iphone:
 
-- Este projeto foi feito através do Bootcamp HTML Web Developer da Digital Innovation One e tem o intuito de treinar o conceito de CSS Flexbox e responsividade. Um conteúdo perfeito para treinar e aguçar a criatividade!
+- Este projeto foi feito através do Bootcamp HTML Web Developer da Digital Innovation One e tem o intuito de treinar o conceito de CSS Flexbox e responsividade. Um conteúdo perfeito para além de treinar, aguçar a criatividade!
 
 	###### Minha página de login:
 ![Instagram página inicial](https://i.imgur.com/JVZhxmP.png "Instagram página inicial")
