@@ -14,7 +14,7 @@
 
 - HTML5
 - CSS3
-- Visual Studio Code (editor de texto)
+- Visual Studio Code 
 
 
 ### Sobre a Digital Innovation One
